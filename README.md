@@ -1,5 +1,5 @@
 # Practice
-Small practice projects (executable excluded)
+Small practice projects *(executable excluded)*
 
 - **hello.cc**
   - first ever program!!
